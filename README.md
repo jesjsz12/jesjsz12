@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jesjsz12
+- 👋 Hi, I’m Jesse Vink
 - 👀 I’m interested in computers and making software
 - 🌱 I’m currently learning how to code better
 - 💞️ I’m looking to collaborate on ...
