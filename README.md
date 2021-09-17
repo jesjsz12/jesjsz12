@@ -8,8 +8,8 @@
 Hi, I’m Jesse Vink, 15 Years old and I love to code. 
 I like to build websites the most, for example I build a website that shows you school stats in graphs.
 Currently I’m learning more about NodeJS and building applications with that.
-if you want to reach me just send me a message on twitter: [@vink_jesse](https://twitter.com/vink_jesse)
 
+if you want to reach me just send me a message on **Twitter:** [@vink_jesse](https://twitter.com/vink_jesse)
 
 <!---
 jesjsz12/jesjsz12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
