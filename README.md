@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 -->
 ## About me
-Hi, I’m Jesse Vink, 16 Years old and I love to code. 
+Hi, I’m Jesse Vink, 17 Years old and I love to code. 
 I like to build websites the most, for example I build a website that shows you school stats in graphs.
 Currently I’m learning more about NodeJS and building applications with that.
 
